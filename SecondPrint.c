@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/* This goes to show that I remember everything from last night (maybe)
-*/
+// This goes to show that I remember everything from last night (maybe)
+
 void secondary_action() { printf("uhhhh returb test\\"); }
 
 void me_when() { printf("making sure i can remember how to do all of this\n"); }
